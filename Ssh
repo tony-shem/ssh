@@ -1,0 +1,2 @@
+git remote tambahkan asal https://github.com/tony-shem/ssh.git
+ git push -u master asal
